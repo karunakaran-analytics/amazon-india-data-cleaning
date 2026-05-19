@@ -1,0 +1,31 @@
+This is Amazon India Sales Raw Data,,,,,,,,,
+Generated for Practice,,,,,,,,,
+,,,,,,,,,
+OrderID,Customer Name,City,State,Country,Order Date,Product Category,Product Name,Price,Quantity,Payment Method,Status,Discount
+1001,  ravi kumar ,chennai,TN,India,01-02-2023,Electronics,Mobile,$12000,1,upi,delivered,10%
+1002,Anu Sharma,Mumbai,MH,INDIA,2023/03/05,Fashion,T-shirt,₹800,2,COD,DELIVERED,5%
+1003,JOHN PAUL,Bangalore,KA,India,5th April 2023,Electronics,Laptop,55000,one,Card,Delivered,0%
+1004,,Delhi,DL,India,07-04-2023,Home,Chair,₹2000,2,UPI,cancelled,15%
+1005,Ravi Kumar,Chennai,TN,INDIA,2023-04-08,Electronics,Mobile,$12000,1,upi,Delivered,10%
+1006,Sneha,Hyderabad,TS,India,09/04/23,Fashion,Shoes,₹1500,3,COD,delivered,5%
+1007,Sneha,Hyderabad,TS,India,09/04/23,Fashion,Shoes,₹1500,3,COD,delivered,5%
+1008,Amit Singh,Kolkata,WB,India,April 10 2023,Electronics,Tablet,20000,2,Card,Delivered,0%
+1009,Meena Iyer,Chennai,TN,India,11-04-2023,Home,Table,₹5000,1,UPI,Delivered,10%
+1010,  karthik ,Bangalore,KA,India,12/04/2023,Electronics,Mobile,$15000,2,upi,delivered,5%
+1011,Arjun,Delhi,DL,India,13-04-23,Fashion,Jeans,₹1200,2,COD,Returned,0%
+1012,Divya,Mumbai,MH,India,14-04-2023,Electronics,Headphones,₹2000,1,Card,Delivered,5%
+1013,John Paul,Bangalore,KA,India,15-04-2023,Electronics,Laptop,55000,1,Card,Delivered,0%
+1014,Anu Sharma,Mumbai,MH,India,16-04-2023,Fashion,T-shirt,₹800,2,COD,Delivered,5%
+1015,,Chennai,TN,India,17-04-2023,Home,Sofa,₹20000,1,UPI,Cancelled,10%
+1016,Ravi Kumar,Chennai,TN,India,18-04-2023,Electronics,Mobile,12000,1,UPI,Delivered,10%
+1017,Suresh,Coimbatore,TN,India,19-04-2023,Home,Chair,₹2000,2,Card,Delivered,15%
+1018,Latha,Madurai,TN,India,20-04-2023,Fashion,Saree,₹3000,1,COD,Delivered,5%
+1019,Kiran,Pune,MH,India,21-04-2023,Electronics,Tablet,20000,2,Card,Delivered,0%
+1020,Meena Iyer,Chennai,TN,India,22-04-2023,Home,Table,₹5000,1,UPI,Delivered,10%
+1021,Arjun,Delhi,DL,India,23-04-2023,Fashion,Jeans,₹1200,2,COD,Returned,0%
+1022,Divya,Mumbai,MH,India,24-04-2023,Electronics,Headphones,₹2000,1,Card,Delivered,5%
+1023,Karthik,Bangalore,KA,India,25-04-2023,Electronics,Mobile,$15000,2,UPI,Delivered,5%
+1024,Amit Singh,Kolkata,WB,India,26-04-2023,Electronics,Tablet,20000,2,Card,Delivered,0%
+1025,Sneha,Hyderabad,TS,India,27-04-2023,Fashion,Shoes,₹1500,3,COD,Delivered,5%
+,,,,,,,,,
+Footer Info,,,,,,,,,
